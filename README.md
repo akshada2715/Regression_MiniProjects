@@ -16,7 +16,7 @@ Coursera and Youtube. They provide a good introduction to the Machine Learning A
   <p> Multiple Linear Regression using scikit-learn. Coursera-guided-project : <a href = "https://www.coursera.org/projects/scikit-learn-multiple-linear-regression">Click here to go to the coursera Project</a> Using the Advertising.csv dataset to predict the sales of the compnay given the advertising amount spent on TV, radio and newspapers.</p>
   <img src="https://github.com/akshada2715/Regression_MiniProjects/blob/master/images/multiple.png" alt="Multiple linear Regression"/>
   </li>
-  <li><h3> Logistic Regression using Scikit-Learn</h3>
+  <li><h3> Logistic Regression using Numpy and Python</h3>
     <p>Logistic Regression Model used to predict the probality of an individual passing the test given the test sores. The dataset is small and this is a beginner level project to understand the concept of Logistic regression. All the functions are written from scratch and no python library like scikit-learn is used. This is a coursera guided project. Coursera-guided-project : <a href="https://www.coursera.org/projects/deep-learning-fundamentals-logistic-regression">Click here to go to the project</a></p>
     <img src = "https://github.com/akshada2715/Regression_MiniProjects/blob/master/images/log.png" alt ="Logistic Regression">
   </li>
